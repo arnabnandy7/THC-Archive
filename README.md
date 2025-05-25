@@ -7,3 +7,4 @@ because we do not have time to operate a full web server anymore and on the othe
 ## So?
 Have fun with it - over 20 years of HPAV fun and research :)
 
+<!-- GitAds-Verify: RKH5TI5GRJ3SEADBV7PJ7PP3IEM7HB4Y -->
